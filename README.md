@@ -56,5 +56,5 @@ Pasos:
 ---
 
 ### 🔗 Recursos adicionales
-- [Wiki del proyecto](https://epositorio/wiki
-- [Guía para contribuirdigo de conducta](CODE_OF_CONDUCT** Usa la [Wiki](https://github.com/usuario/repositorio/wiki) para navegar por seccionesdas y acceder a ejemplos prácticos.
+- [Wiki del proyecto](https://repositorio/wiki)
+- [Guía para contribuir código de conducta](CODE_OF_CONDUCT** Usa la [Wiki](https://github.com/usuario/repositorio/wiki) para navegar por secciones y acceder a ejemplos prácticos.
